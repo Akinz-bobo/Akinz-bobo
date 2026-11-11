@@ -21,7 +21,7 @@ Six years shipping production software for companies in the US, UK and Nigeria. 
 - **[Agrocist](https://agrocist.com)** (agritech and animal health): co-architected a farm management platform reachable by web, WhatsApp and phone call
 - **[Livestocx](https://www.livestocx.com)** (marketplace): event-driven backend with seller payouts, deployed on AWS
 
-Most of that code is private client work. The repositories pinned below are my own, built to show how I approach the same problems in the open.
+Most of that code is private client work, so the public repositories here are my own projects.
 
 ## Toolbox
 
