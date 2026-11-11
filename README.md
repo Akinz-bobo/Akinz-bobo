@@ -23,6 +23,12 @@ Six years shipping production software for companies in the US, UK and Nigeria. 
 
 Most of that code is private client work, so the public repositories here are my own projects.
 
+## Open projects
+
+- **[double-entry-ledger](https://github.com/Akinz-bobo/double-entry-ledger)**: a ledger service for products that move money. Idempotent posting, concurrency-safe balances, reversals and reconciliation, with every invariant enforced in both the service and PostgreSQL. TypeScript, Fastify, PostgreSQL, Docker.
+- **[sharded-data-service](https://github.com/Akinz-bobo/sharded-data-service)**: a horizontally scalable data service with hash-based sharding, Kubernetes manifests, and Prometheus and Grafana monitoring. Python, FastAPI.
+- **[admin-dashboard-nuxt](https://github.com/Akinz-bobo/admin-dashboard-nuxt)**: an admin dashboard for customers, products and transactions. Vue 3, Nuxt 3, Pinia.
+
 ## Toolbox
 
 **Languages:** TypeScript, Python, JavaScript, SQL
