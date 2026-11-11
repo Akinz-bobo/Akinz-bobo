@@ -26,6 +26,7 @@ Most of that code is private client work, so the public repositories here are my
 ## Open projects
 
 - **[double-entry-ledger](https://github.com/Akinz-bobo/double-entry-ledger)**: a ledger service for products that move money. Idempotent posting, concurrency-safe balances, reversals and reconciliation, with every invariant enforced in both the service and PostgreSQL. TypeScript, Fastify, PostgreSQL, Docker.
+- **[gatehouse](https://github.com/Akinz-bobo/gatehouse)**: a modular authentication and authorization service. A JWT core with opt-in modules for roles (RBAC), attribute-based policies (ABAC), OAuth sign-in, two-factor and an append-only audit log, documented with a threat model that maps each defence to a test. TypeScript, Fastify, PostgreSQL, Docker.
 - **[sharded-data-service](https://github.com/Akinz-bobo/sharded-data-service)**: a horizontally scalable data service with hash-based sharding, Kubernetes manifests, and Prometheus and Grafana monitoring. Python, FastAPI.
 - **[admin-dashboard-nuxt](https://github.com/Akinz-bobo/admin-dashboard-nuxt)**: an admin dashboard for customers, products and transactions. Vue 3, Nuxt 3, Pinia.
 
